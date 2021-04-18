@@ -1,7 +1,7 @@
 # pandas-challenge
 pandas-challenge
 
-Below is the link for the jupyter notebook path: 
+Below is the link for the jupyter notebook path:                                                         
 /notebooks/HeroesOfPymoli_starter.ipynb
 
 (or)
